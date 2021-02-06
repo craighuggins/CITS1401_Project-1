@@ -21,4 +21,4 @@ Inputs:
       Allowed values are "list", which lists the countries in descending order of the computed metric, or "correlation" which uses the Spearman rank correlation coefficient to compute the correlation between ranks according to the computed metric and the ranks according to the Life Ladder score.
   
 Output:
-The output, printed to standard output, will be either a listing of the countries in descending order based on the computed metric, or a statement containing the correlation value
+- The output, printed to standard output, will be either a listing of the countries in descending order based on the computed metric, or a statement containing the correlation value
