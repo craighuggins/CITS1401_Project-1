@@ -6,8 +6,8 @@ https://worldhappiness.report/ed/2018/
 https://en.wikipedia.org/wiki/World_Happiness_Report
 
 The underlying data can be found in the files:
-WHR2018Chapter2_reduced.csv
-WHR2018Chapter2_reduced_sample.csv
+- WHR2018Chapter2_reduced.csv
+- WHR2018Chapter2_reduced_sample.csv
 
 Running the program:
 - start by calling the main() function
